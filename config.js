@@ -3,7 +3,7 @@ const config = {
     repeatCount: 1000,
 
     // 在当前的 gas 基础上增加多少倍
-    increaseGas: 1.3,
+    increaseGas: 0,
 
     // 每一笔交易停顿多久（毫秒为单位，1000=1秒）
     sleepTime: 1000,
